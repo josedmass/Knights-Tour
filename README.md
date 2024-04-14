@@ -19,6 +19,8 @@ OBS: Os detalhes da implementação, bem como as estruturas de dados utilizadas 
 3. Digite as posições de linha e coluna, respectivamente, que o cavalo deve começar seu passeio.
 4. Um arquivo chamado saida.txt será gerado com a solução do algoritmo.
 
+OBS: as linhas e colunas que o usuário digita __devem__ variar de 1 a 8.
+
 ## Exemplo de uso
 1. Gerando o executável pela linha de comando do terminal Ubuntu: 
 ```bash
@@ -26,5 +28,5 @@ gcc main.c -o meu_programa
 ```
 2. Executando o programa:
 ```bash
-./meu_programa.c
+./meu_programa
 ```
