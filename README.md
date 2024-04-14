@@ -24,7 +24,7 @@ OBS: as linhas e colunas que o usuário digita __devem__ variar de 1 a 8.
 ## Exemplo de uso
 1. Gerando o executável pela linha de comando do terminal Ubuntu: 
 ```bash
-gcc main.c -o meu_programa
+gcc ./src/main.c -o meu_programa
 ```
 2. Executando o programa:
 ```bash
