@@ -1,7 +1,7 @@
 ## Passeio-do-Cavalo
 Este é um projeto desenvolvido como trabalho prático da disciplina de Matemática Discreta da UFMG, realizado em 2022/02
 
-# Autor
+## Autor
 - José Eduardo Duarte Massucato
 
 # Descrição
